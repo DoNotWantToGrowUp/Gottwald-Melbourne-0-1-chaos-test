@@ -29,30 +29,30 @@ https://orcid.org/0000-0003-4159-3132<br>
 %如果你有任何问题，请给我发邮件，我会尽快回复你。<br>
 %值得注意的是，以下所有源代码都是在MATLAB R2022b下编写的。<br>
 %并且文件可以从特定工具箱调用内置函数。<br>
-%E-mail: donotwanttogrowup@outlook.com
+%E-mail: donotwanttogrowup@outlook.com<br>
 
 
-ENGLISH
-####Introduction
+ENGLISH<br>
+#### Introduction
 
 Gottwald Melbourne 0-1 chaos test
 
 
 
-####Software architecture
+#### Software architecture
 
 The program has been packaged, and chaos can be modified for use.
 
 
 
 
-####Software based
+#### Software based
 
 matlab R2022a
 
 
 
-####Instructions
+#### Instructions
 
 
 
@@ -60,7 +60,7 @@ Modifying the chaotic system can
 
 
 
-####Participatory contributions
+#### Participatory contributions
 
 
 
@@ -69,9 +69,10 @@ Yiting Lin 2022/8/23
 
 
 
-####Instructions
+#### Instructions
 
-Author ORCID:
+Author ORCID:<br>
+
 
 https://orcid.org/0000-0003-4159-3132 <br>
 
