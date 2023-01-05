@@ -78,17 +78,17 @@ https://orcid.org/0000-0003-4159-3132 <br>
 
 %All source codes can be distributed, used and modified free of charge<br>
 
-%It is used for research and research purposes, but never for commercial purposes< br>
+%It is used for research and research purposes, but never for commercial purposes<br>
 
 %If you use any of the following codes in academic publications,<br>
 
-%Please indicate the source and the author of the original code in the text< br>
+%Please indicate the source and the author of the original code in the text <br>
 
-%If you have any questions, please email me and I will reply you as soon as possible< br>
+%If you have any questions, please email me and I will reply you as soon as possible<br>
 
-%It is worth noting that all the following source codes are written under MATLAB R2022b< br>
+%It is worth noting that all the following source codes are written under MATLAB R2022b<br>
 
-%And the file can call built-in functions from a specific toolbox< br>
+%And the file can call built-in functions from a specific toolbox<br>
 
 %E-mail: donotwanttogrowup@outlook.com
 
